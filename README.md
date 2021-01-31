@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Example" title="Example"  src="WebContent/imagem/Cc.jpg" width="250px">
+  <img alt="Example" title="Example" src="https://github.com/mardesonLemos/carimba/blob/master/CarimbaClub/WebContent/imagem/Cc.jpg" width="250px">
 </h1>
 
 ## 💻 Project
